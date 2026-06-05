@@ -1,5 +1,10 @@
 # Jakit
 
+<p align="center">
+  <img src="docs/assets/logo.png" alt="Jakit logo" width="240">
+</p>
+
+
 Agent card and task envelope schemas for agent-to-agent work exchange.
 
 Jakit is a primitive with TypeScript and Python implementations maintained in one public repository. The shared repo keeps the public contract, fixtures, issues, and release history aligned across languages.
