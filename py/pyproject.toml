@@ -2,9 +2,15 @@
 name = "jakit"
 version = "0.0.0"
 description = "Agent card and task envelope schemas for agent-to-agent work exchange."
+readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/cachetronaut/jakit"
+Repository = "https://github.com/cachetronaut/jakit"
+Issues = "https://github.com/cachetronaut/jakit/issues"
 
 [build-system]
 requires = ["hatchling"]

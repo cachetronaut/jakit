@@ -68,5 +68,13 @@
     "tsup": "^8.3.5",
     "typescript": "^5.7.2",
     "vitest": "^2.1.8"
+  },
+  "homepage": "https://github.com/cachetronaut/jakit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cachetronaut/jakit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cachetronaut/jakit/issues"
   }
 }
